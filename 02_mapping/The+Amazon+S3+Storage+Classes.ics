@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:-//Microsoft Corporation//Outlook 11.0 MIMEDIR//EN
+BEGIN:VEVENT
+UID:287495c46079dbefd8
+DTSTAMP:20190121T175541Z
+DTSTART:20190128T190000Z
+DTEND:20190128T200000Z
+SUMMARY:The Amazon S3 Storage Classes
+LOCATION:Join using the link below
+DESCRIPTION:Amazon S3 supports the widest range of storage classes. The six S3 Storage Classes are designed to help customers store their data cost-effectively without negatively impacting performance. In this tech talk\, Amazon S3 experts will be diving into each of the S3 Storage Classes\, including our newest ones\, S3 Intelligent-Tiering and S3 Glacier Deep Archive. We will also cover the use cases they support and their respective features. We will also provide best practices around how to use S3 Storage Class Analysis to learn data access patterns and configure S3 Lifecycle policies that transfer objects between storage classes for cost-effective storage.\n\nYour login: http://cloudwebinaraws.adobeconnect.com/r6tar0h0o8xn?login=andrii.tugai@gmail.com&password=amazon
+END:VEVENT
+END:VCALENDAR
