@@ -14,6 +14,7 @@ def getMetaData(imgname, out):
         info = imgFile._getexif()
         if info:
             print("Found metadata")
+            pprint (info)
 
             for (tag, value) in info.items():
                 tagname = TAGS.get(tag, tag)
